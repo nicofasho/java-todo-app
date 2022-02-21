@@ -1,5 +1,4 @@
-import { useState } from "react";
-import { Link, Navigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import AuthenticationService from "./AuthenticationService";
 
 export default function HeaderComponent(props) {

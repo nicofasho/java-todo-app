@@ -6,7 +6,6 @@ import HeaderComponent from "./HeaderComponent";
 import LoginComponent from "./LoginComponent";
 import WelcomeComponent from "./WelcomeComponent";
 import ListTodosComponent from "./ListTodosComponent";
-import LogoutComponent from "./LogoutComponent";
 import ErrorComponent from "./ErrorComponent";
 import FooterComponent from "./FooterComponent";
 import AuthenticatedRoute from "./AuthenticatedRoute";
